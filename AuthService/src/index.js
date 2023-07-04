@@ -13,7 +13,7 @@ app.use('/',(req,res)=> {
 })
 
 
-
+// bui khac tao coded authservice
 app.listen(3001, ()=> {
     console.log("server is running http://localhost:3000")
 })
